@@ -1,0 +1,19 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:var(--www-gucci-com-inter-bold-11-4-underline-font-weight),100,var(--www-gucci-com-inter-semi-bold-11-4-underline-font-weight),var(--www-gucci-com-inter-regular-12-font-weight),var(--www-gucci-com-inter-regular-11-4-font-weight),var(--www-gucci-com-inter-semi-bold-14-font-weight),700,var(--www-gucci-com-inter-regular-16-font-weight),var(--www-gucci-com-inter-semi-bold-11-4-font-weight),500,400");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}

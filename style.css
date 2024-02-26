@@ -1,0 +1,2158 @@
+.www-gucci-com-by {
+  display: flex;
+  flex-direction: column;
+  min-height: 1008px;
+  align-items: flex-start;
+  position: relative;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .div {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 240px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-2 {
+  flex-direction: column;
+  max-width: 1440px;
+  width: 1440px;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 24px 64px 0px;
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.www-gucci-com-by .g-link-link {
+  top: 4px;
+  left: -9936px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.www-gucci-com-by .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  letter-spacing: -0.36px;
+  line-height: 16px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .after {
+  width: 111px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .list-wrapper {
+  height: 24px;
+  align-items: center;
+  padding: 0px 0px 0px 1073.52px;
+  align-self: stretch;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.www-gucci-com-by .list {
+  display: inline-flex;
+  align-items: baseline;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .img {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .item {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0px 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .button-navigation {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 0px 1.42e-14px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-3 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-logostyles {
+  display: flex;
+  flex-direction: column;
+  width: 1312px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .section-women-s-fall {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1440px;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .overlap-group {
+  position: relative;
+  width: 1920px;
+  height: 1440px;
+}
+
+.www-gucci-com-by .div-mediaimagestyle {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-fhimage {
+  position: relative;
+  width: 1920px;
+  height: 1440px;
+  background-image: url(./img/gucci-hp-desktop-4-3-herofullbleed-fw24-lineup-3-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .div-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 1px;
+  top: 1080px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-6 {
+  display: flex;
+  width: 1920px;
+  padding: 0px 620.56px 0px 620.55px;
+  top: -152px;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.www-gucci-com-by .div-7 {
+  display: inline-flex;
+  gap: 16px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.www-gucci-com-by .span-hero-full-bleed {
+  align-items: flex-start;
+  padding: 0px 40px;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .women-s-fall-winter {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--wwwguccicomnero);
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .link-discover-more {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .before {
+  width: 149px;
+  height: 48px;
+  background-color: var(--wwwguccicomnero);
+  border-radius: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwguccicomblack);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .figure {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .div-fhimage-2 {
+  width: 936px;
+  height: 1248px;
+  background-image: url(./img/hp-gucci-ss24-jan24-1602-guc-013d-0398-r-v4-me-300dpi-srgb-001-d.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .heading {
+  display: flex;
+  width: 70px;
+  align-items: center;
+  justify-content: center;
+  padding: 5.33px 10.65px 5.33px 10.66px;
+  position: absolute;
+  top: 80px;
+  left: 433px;
+  background-color: var(--wwwguccicomnero-10);
+  border-radius: 2.67px;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.www-gucci-com-by .women {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: -0.6px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-titleandctastyle {
+  display: flex;
+  flex-direction: column;
+  width: 936px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0px 0px 350px;
+  position: absolute;
+  top: 794px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-titleandctastyle-2 {
+  display: flex;
+  flex-direction: column;
+  width: 936px;
+  align-items: center;
+  gap: 16px;
+  padding: 0px 48px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .spring-summer-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 248.44px 0px 248.42px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwguccicomnero);
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-8 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .before-2 {
+  width: 150px;
+  height: 48px;
+  background-color: var(--wwwguccicomnero);
+  border-radius: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-fhimage-3 {
+  width: 936px;
+  height: 1248px;
+  background-image: url(./img/hp-gucci-ss24-jan24-1602-guc-043-0035-g-v7-white-lr-001-default.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .handbags-wrapper {
+  padding: 0px 329.64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .before-3 {
+  position: absolute;
+  width: 211px;
+  height: 48px;
+  top: 0;
+  left: 0;
+  background-color: var(--wwwguccicomnero);
+  border-radius: 2px;
+}
+
+.www-gucci-com-by .div-fhimage-4 {
+  width: 936px;
+  height: 1248px;
+  background-image: url(./img/hp-gucci-ss24-jan24-1602-guc-044-0039-g-v6-lr-001-default-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .shoes-wrapper {
+  padding: 0px 367.09px 0px 367.08px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-fhimage-5 {
+  width: 936px;
+  height: 1248px;
+  background-image: url(./img/hp-gucci-ss24-jan24-1602-guc-012-0579-r-v4-me-300dpi-srgb-001-de.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .heading-2 {
+  padding: 0px 191.14px 0px 191.13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .before-4 {
+  width: 116px;
+  height: 48px;
+  background-color: var(--wwwguccicomnero);
+  border-radius: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-fhfeaturedstyle-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 240px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .div-fhfeaturedstyle {
+  max-width: 1440px;
+  width: 1440px;
+  align-items: center;
+  gap: 128.5px;
+  padding: 159.5px 64px 0px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwguccicomblack);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.48px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .figure-2 {
+  align-items: flex-start;
+  gap: 32px;
+  padding: 0px 0px 160px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-mediaimagestyle-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 1440px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.www-gucci-com-by .div-fhimage-6 {
+  max-width: 640px;
+  width: 640px;
+  height: 853.33px;
+  background-image: url(./img/gucci-hp-portrait-hero-fw24-look21-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .div-fhfeaturedstyle-2 {
+  max-width: 1440px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.www-gucci-com-by .heading-gucci-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 80px 769.53px 32px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .heading-gucci {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 100;
+  color: var(--wwwguccicomblack);
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -2.4px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-mosaicwrapper-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1440px;
+  width: 1440px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 48px 64px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-mosaicwrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  overflow: hidden;
+}
+
+.www-gucci-com-by .div-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.www-gucci-com-by .div-fhvideostyle-wrapper {
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--wwwguccicomnero);
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-fhvideostyle {
+  width: 410.67px;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-fhvideostyle-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .packaging-poster {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-image: url(./img/packaging-poster-11-v2-institutional-2023-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .g-floating-button-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 48px;
+  position: absolute;
+  top: 16px;
+  left: 363px;
+}
+
+.www-gucci-com-by .button {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  padding: 7.5px 8px;
+  position: relative;
+  border-radius: 16px;
+}
+
+.www-gucci-com-by .img-2 {
+  position: relative;
+  flex: 0 0 auto;
+  object-fit: cover;
+}
+
+.www-gucci-com-by .before-5 {
+  width: 32px;
+  height: 32px;
+  background-color: var(--wwwguccicomnero);
+  border-radius: 16px;
+  box-shadow: 0px 8px 24px #0000001a;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 16px 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-11 {
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 872px;
+  align-items: flex-start;
+  padding: 16px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .p-wrapper {
+  padding: 0px 0px 24px;
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 872px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 3.11px 0.5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 100;
+  color: var(--wwwguccicomblack);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+}
+
+.www-gucci-com-by .div-12 {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 32px 0px 0px;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-wrapper-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .span-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .span {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--wwwguccicomblack);
+  font-size: 16px;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .after-2 {
+  width: 185px;
+  top: 24px;
+  background-color: var(--wwwguccicomblack);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .embossing-poster-png {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-image: url(./img/embossing-poster-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .emboss-select-bags-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 4.37px 0.5px 4.38px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-gucci-com-by .after-3 {
+  width: 168px;
+  top: 24px;
+  background-color: var(--wwwguccicomblack);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .book-an-appointment {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-image: url(./img/book-an-appointment-poster-11-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-gucci-com-by .div-13 {
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 872px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .enjoy-priority-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 3.57px 0.5px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-gucci-com-by .after-4 {
+  width: 212px;
+  top: 24px;
+  background-color: var(--wwwguccicomblack);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 240px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwguccicomblack);
+}
+
+.www-gucci-com-by .section-2 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1440px;
+  width: 1440px;
+  align-items: flex-start;
+  padding: 0px 64px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 80px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .section-wrapper {
+  width: 644px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-gucci-com-by .section-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 508px;
+}
+
+.www-gucci-com-by .div-display {
+  display: flex;
+  flex-direction: column;
+  width: 310px;
+  align-items: flex-start;
+  padding: 0px 0px 88px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-wrapper-3 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-accordion-footer {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  opacity: 0.5;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  letter-spacing: -0.6px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .button-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 246.23px 28px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: -0.36px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .after-5 {
+  width: 62px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .g-link-link-wrapper {
+  padding: 0px 256.97px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .g-link-link-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-6 {
+  width: 51px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-16 {
+  padding: 0px 280.47px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-7 {
+  width: 29px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-17 {
+  padding: 0px 205.97px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-8 {
+  width: 101px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-18 {
+  padding: 0px 262.75px 4px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-9 {
+  width: 45px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .THE-COMPANY-wrapper {
+  top: 0;
+  left: 334px;
+  display: flex;
+  flex-direction: column;
+  width: 310px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.www-gucci-com-by .div-19 {
+  padding: 0px 239.28px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-10 {
+  width: 68px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-20 {
+  padding: 0px 210.5px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-11 {
+  width: 94px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-21 {
+  padding: 0px 228.55px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-12 {
+  width: 80px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-22 {
+  padding: 0px 265.11px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-13 {
+  width: 43px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-23 {
+  padding: 0px 278.42px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-14 {
+  width: 30px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-24 {
+  padding: 0px 178.75px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-15 {
+  width: 127px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-25 {
+  padding: 0px 180.36px 4px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-16 {
+  position: absolute;
+  width: 120px;
+  height: 1px;
+  top: 15px;
+  left: 0;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .gucci-services-wrapper {
+  top: 404px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  width: 310px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.www-gucci-com-by .div-26 {
+  padding: 0px 188.05px 28px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-27 {
+  padding: 0px 187.7px 4px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-17 {
+  width: 118px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-28 {
+  width: 644px;
+  gap: 48px;
+  padding: 0px 0px 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-gucci-com-by .div-wrapper-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 547.11px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  opacity: 0.5;
+}
+
+.www-gucci-com-by .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  letter-spacing: -0.6px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-field {
+  position: relative;
+  width: 644px;
+  height: 44px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwguccicomnero-50);
+}
+
+.www-gucci-com-by .label-city-region {
+  position: absolute;
+  width: 166px;
+  height: 19px;
+  top: 11px;
+  left: 0;
+  opacity: 0.7;
+  font-family: var(--www-gucci-com-inter-regular-16-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-16-font-weight);
+  color: var(--wwwguccicomnero);
+  font-size: var(--www-gucci-com-inter-regular-16-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-16-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-regular-16-font-style);
+}
+
+.www-gucci-com-by .span-2 {
+  position: absolute;
+  width: 16px;
+  height: 20px;
+  top: 12px;
+  left: 620px;
+}
+
+.www-gucci-com-by .label-margin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .label-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 472.83px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  opacity: 0.5;
+}
+
+.www-gucci-com-by .div-newsletterstyles {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .p-2 {
+  height: 36px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-gucci-com-by .text-wrapper-11 {
+  position: absolute;
+  width: 624px;
+  height: 16px;
+  top: -1px;
+  left: 0;
+  font-family: var(--www-gucci-com-inter-regular-12-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-12-font-weight);
+  color: var(--wwwguccicomnero);
+  font-size: var(--www-gucci-com-inter-regular-12-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-12-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-12-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-regular-12-font-style);
+}
+
+.www-gucci-com-by .overlap-group-2 {
+  position: absolute;
+  width: 414px;
+  height: 17px;
+  top: 19px;
+  left: 0;
+}
+
+.www-gucci-com-by .text-wrapper-12 {
+  position: absolute;
+  width: 338px;
+  height: 16px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-gucci-com-inter-regular-12-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-12-font-weight);
+  color: var(--wwwguccicomnero);
+  font-size: var(--www-gucci-com-inter-regular-12-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-12-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-12-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-regular-12-font-style);
+}
+
+.www-gucci-com-by .g-link-link-3 {
+  top: 1px;
+  left: 338px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.www-gucci-com-by .after-18 {
+  width: 76px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .label-email {
+  position: absolute;
+  width: 44px;
+  height: 19px;
+  top: 11px;
+  left: 0;
+  opacity: 0.7;
+  font-family: var(--www-gucci-com-inter-regular-16-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-16-font-weight);
+  color: var(--wwwguccicomnero);
+  font-size: var(--www-gucci-com-inter-regular-16-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-16-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-regular-16-font-style);
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.www-gucci-com-by .div-29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 3px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-30 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0px 563.05px 0px 0px;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .button-3 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+  z-index: 1;
+}
+
+.www-gucci-com-by .after-19 {
+  width: 53px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-31 {
+  z-index: 0;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .label-country {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 531.3px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  opacity: 0.5;
+}
+
+.www-gucci-com-by .g-cta {
+  display: flex;
+  align-items: center;
+  padding: 0px 573.44px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .after-20 {
+  width: 70px;
+  top: 15px;
+  background-color: var(--wwwguccicomnero);
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.www-gucci-com-by .div-32 {
+  gap: 24px;
+  padding: 104px 0px 116px;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-gucci-com-by .div-33 {
+  position: relative;
+  align-self: stretch;
+  max-width: 343px;
+  width: 100%;
+  height: 53.75px;
+}
+
+.www-gucci-com-by .link-gucci-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-34 {
+  position: absolute;
+  width: 53px;
+  height: 54px;
+  top: 0;
+  left: 98px;
+  object-fit: cover;
+}
+
+.www-gucci-com-by .link-gucci-visions-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  align-items: flex-start;
+  position: absolute;
+  top: 17px;
+  left: 196px;
+}
+
+.www-gucci-com-by .link-gucci-osteria-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  align-items: flex-start;
+  position: absolute;
+  top: 17px;
+  left: 293px;
+}
+
+.www-gucci-com-by .copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 752.55px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  letter-spacing: -0.36px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .g-logo {
+  object-fit: cover;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-reactmodal {
+  display: flex;
+  width: 1920px;
+  align-items: center;
+  justify-content: center;
+  padding: 384px 634px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--wwwguccicomblack-40);
+  backdrop-filter: blur(15px) brightness(100%);
+  -webkit-backdrop-filter: blur(15px) brightness(100%);
+}
+
+.www-gucci-com-by .dialog {
+  display: flex;
+  flex-direction: column;
+  width: 652px;
+  align-items: flex-start;
+  position: relative;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .overlap-group-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 312px;
+}
+
+.www-gucci-com-by .overlap-group-3 {
+  position: relative;
+  width: 652px;
+  height: 312px;
+}
+
+.www-gucci-com-by .div-35 {
+  display: flex;
+  flex-direction: column;
+  width: 652px;
+  align-items: flex-start;
+  padding: 80px 40px 40px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .visiting-from-united-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .visiting-from-united {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwguccicomblack);
+  font-size: 32px;
+  letter-spacing: -0.96px;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-36 {
+  display: inline-flex;
+  flex-direction: column;
+  max-height: 48px;
+  align-items: flex-start;
+  padding: 0px 0px 0.5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 100;
+  color: var(--wwwguccicomblack);
+  font-size: 16px;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-37 {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 48px 0px 0px 77.66px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .button-4 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  z-index: 1;
+}
+
+.www-gucci-com-by .before-6 {
+  width: 228px;
+  height: 48px;
+  background-color: var(--wwwguccicomnero-02);
+  border-radius: 2px;
+  box-shadow: inset 0px 0px 0px 1px #000000;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px 24px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  z-index: 0;
+}
+
+.www-gucci-com-by .before-7 {
+  width: 238px;
+  height: 48px;
+  background-color: var(--wwwguccicomblack);
+  border-radius: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .switch-to-united {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwguccicomnero);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-gucci-com-by .div-38 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 64px;
+  align-items: flex-start;
+  padding: 16px 0px 0px 286px;
+  position: absolute;
+  top: 0;
+  left: 302px;
+}
+
+.www-gucci-com-by .close-geolocation {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+  border-radius: 24px;
+}
+
+.www-gucci-com-by .before-8 {
+  width: 48px;
+  height: 48px;
+  background-color: var(--wwwguccicomblack);
+  border-radius: 24px;
+  box-shadow: 0px 8px 24px #0000001a;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-gucci-com-by .div-onetrust-pc-dark {
+  position: absolute;
+  width: 1920px;
+  height: 1161px;
+  top: 0;
+  left: 0;
+  background-color: var(--wwwguccicomblack-50);
+}
+
+.www-gucci-com-by .region-cookie-banner {
+  display: flex;
+  flex-direction: column;
+  max-width: 650px;
+  width: 650px;
+  max-height: 972px;
+  align-items: center;
+  position: absolute;
+  top: 108px;
+  left: 642px;
+  background-color: var(--wwwguccicomnero);
+  box-shadow: 0px 0px 18px #00000033;
+}
+
+.www-gucci-com-by .alertdialog-we-use {
+  display: flex;
+  flex-direction: column;
+  max-width: 650px;
+  width: 650px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-onetrust-close {
+  position: absolute;
+  width: 44px;
+  height: 48px;
+  top: 2px;
+  left: 600px;
+}
+
+.www-gucci-com-by .div-ot-sdk-row {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10.01px;
+  padding: 40px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-onetrust-policy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10.29px;
+  padding: 0px 30px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .heading-we-use {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-gucci-com-inter-semi-bold-14-font-family);
+  font-weight: var(--www-gucci-com-inter-semi-bold-14-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-semi-bold-14-font-size);
+  letter-spacing: var(--www-gucci-com-inter-semi-bold-14-letter-spacing);
+  line-height: var(--www-gucci-com-inter-semi-bold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-semi-bold-14-font-style);
+}
+
+.www-gucci-com-by .div-onetrust-policy-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 221.81px;
+}
+
+.www-gucci-com-by .in-addition-to-the {
+  position: absolute;
+  width: 589px;
+  height: 85px;
+  top: -2px;
+  left: 0;
+  font-family: var(--www-gucci-com-inter-regular-11-4-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-11-4-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-regular-11-4-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-11-4-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-11-4-line-height);
+  font-style: var(--www-gucci-com-inter-regular-11-4-font-style);
+}
+
+.www-gucci-com-by .you-can-click-on {
+  position: absolute;
+  width: 587px;
+  height: 68px;
+  top: 101px;
+  left: 0;
+  font-family: var(--www-gucci-com-inter-regular-11-4-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-11-4-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-regular-11-4-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-11-4-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-11-4-line-height);
+  font-style: var(--www-gucci-com-inter-regular-11-4-font-style);
+}
+
+.www-gucci-com-by .overlap {
+  position: absolute;
+  width: 576px;
+  height: 34px;
+  top: 186px;
+  left: 0;
+}
+
+.www-gucci-com-by .text-wrapper-15 {
+  position: absolute;
+  width: 530px;
+  height: 17px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-gucci-com-inter-regular-11-4-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-11-4-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-regular-11-4-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-11-4-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-11-4-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-regular-11-4-font-style);
+}
+
+.www-gucci-com-by .link-2 {
+  position: absolute;
+  width: 576px;
+  height: 31px;
+  top: 3px;
+  left: 0;
+}
+
+.www-gucci-com-by .overlap-group-4 {
+  position: relative;
+  width: 580px;
+  height: 36px;
+  top: -3px;
+  left: -2px;
+}
+
+.www-gucci-com-by .link-outline {
+  position: absolute;
+  width: 580px;
+  height: 35px;
+  top: 1px;
+  left: 0;
+  border: 1px solid;
+  border-color: var(--wwwguccicomblack);
+}
+
+.www-gucci-com-by .text-wrapper-16 {
+  position: absolute;
+  width: 41px;
+  height: 17px;
+  top: 0;
+  left: 537px;
+  font-family: var(--www-gucci-com-inter-bold-11-4-underline-font-family);
+  font-weight: var(--www-gucci-com-inter-bold-11-4-underline-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-bold-11-4-underline-font-size);
+  letter-spacing: var(--www-gucci-com-inter-bold-11-4-underline-letter-spacing);
+  line-height: var(--www-gucci-com-inter-bold-11-4-underline-line-height);
+  text-decoration: underline;
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-bold-11-4-underline-font-style);
+}
+
+.www-gucci-com-by .text-wrapper-17 {
+  position: absolute;
+  width: 35px;
+  height: 17px;
+  top: 17px;
+  left: 2px;
+  font-family: var(--www-gucci-com-inter-bold-11-4-underline-font-family);
+  font-weight: var(--www-gucci-com-inter-bold-11-4-underline-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-bold-11-4-underline-font-size);
+  letter-spacing: var(--www-gucci-com-inter-bold-11-4-underline-letter-spacing);
+  line-height: var(--www-gucci-com-inter-bold-11-4-underline-line-height);
+  text-decoration: underline;
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-bold-11-4-underline-font-style);
+}
+
+.www-gucci-com-by .text-wrapper-18 {
+  position: absolute;
+  width: 3px;
+  height: 17px;
+  top: 17px;
+  left: 35px;
+  font-family: var(--www-gucci-com-inter-regular-11-4-font-family);
+  font-weight: var(--www-gucci-com-inter-regular-11-4-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-regular-11-4-font-size);
+  letter-spacing: var(--www-gucci-com-inter-regular-11-4-letter-spacing);
+  line-height: var(--www-gucci-com-inter-regular-11-4-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-regular-11-4-font-style);
+}
+
+.www-gucci-com-by .div-onetrust-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 650px 122.84px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-gucci-com-by .div-onetrust-button-2 {
+  position: relative;
+  width: 1px;
+  height: 1px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+}
+
+.www-gucci-com-by .overlap-group-5 {
+  position: relative;
+  width: 570px;
+  height: 92px;
+  left: 30px;
+}
+
+.www-gucci-com-by .div-banner-actions {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 14.58px;
+  padding: 0px 5.68e-14px 16px 0px;
+  position: absolute;
+  top: 0;
+  left: 94px;
+}
+
+.www-gucci-com-by .button-5 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  min-width: 135px;
+  align-items: flex-start;
+  padding: 10px 31px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwguccicomblack);
+  border: 1px solid;
+  border-color: var(--wwwguccicomblack);
+}
+
+.www-gucci-com-by .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-gucci-com-inter-semi-bold-11-4-font-family);
+  font-weight: var(--www-gucci-com-inter-semi-bold-11-4-font-weight);
+  color: var(--wwwguccicomnero);
+  font-size: var(--www-gucci-com-inter-semi-bold-11-4-font-size);
+  text-align: center;
+  letter-spacing: var(--www-gucci-com-inter-semi-bold-11-4-letter-spacing);
+  line-height: var(--www-gucci-com-inter-semi-bold-11-4-line-height);
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-semi-bold-11-4-font-style);
+}
+
+.www-gucci-com-by .button-6 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 135px;
+  max-width: 750px;
+  align-items: flex-start;
+  padding: 12px 8.62px 12px 0px;
+  position: absolute;
+  top: 52px;
+  left: 0;
+  background-color: var(--wwwguccicomnero);
+}
+
+.www-gucci-com-by .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-gucci-com-inter-semi-bold-11-4-underline-font-family);
+  font-weight: var(--www-gucci-com-inter-semi-bold-11-4-underline-font-weight);
+  color: var(--wwwguccicomblack);
+  font-size: var(--www-gucci-com-inter-semi-bold-11-4-underline-font-size);
+  letter-spacing: var(--www-gucci-com-inter-semi-bold-11-4-underline-letter-spacing);
+  line-height: var(--www-gucci-com-inter-semi-bold-11-4-underline-line-height);
+  text-decoration: underline;
+  white-space: nowrap;
+  font-style: var(--www-gucci-com-inter-semi-bold-11-4-underline-font-style);
+}
